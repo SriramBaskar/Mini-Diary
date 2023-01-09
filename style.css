@@ -1,0 +1,77 @@
+body{
+    background-color: deepskyblue;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.contant-box{
+    height: 300px;
+    width: 300px;
+    border-style: hidden;
+    background-color: aliceblue;
+}
+
+button{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    
+}
+
+#btn-save{
+    margin-left: 45px;
+    background-color: #28B463;
+}
+
+.btn-edit{
+    margin-left: 30px;
+    background-color: #85C1E9
+}
+
+.btn-delect{
+    margin-left: 30px;
+    background-color: #EF697A
+}
+
+.frm{
+    width: 257px;
+    height: 10px;
+    padding: 12px 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: hidden;
+    font-weight: bolder;
+    font-size: 100%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.frm1{
+    width: 257px;
+    height: 150px;
+    padding: 12px 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: hidden;
+    font-size: 100%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.boat{
+    border-style: hidden;
+    background-image: linear-gradient(rgba(209,221,234,0.6), rgba(209,221,234,0.6)),url(resize-topAngle.jpg);
+    background-size: cover;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 20px;
+    height: auto;
+    width: 260px;
+}
+
+.time-el{
+    color: white;
+    text-align: right;
+}
